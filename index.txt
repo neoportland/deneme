@@ -1,1 +1,2 @@
 hello bu yazı ilk kurulum aşamasındaki yazıyı temsil ediyor 
+selm bu satır benim ikinci değişklğimi ifade ediyor. 
